@@ -1,0 +1,44 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "William Flaherty, Ph.D.",
+  "language": "en",
+  "home_page_url": "https://billflaherty.com/",
+  "feed_url": "https://billflaherty.com/feed/feed.json",
+  "description": "An engineering leader with dirt under my fingernails.",
+  "author": {
+    "name": "Bill Flaherty",
+    "url": "https://billflaherty.com/about-me/"
+  },
+  "items": [{
+      "id": "https://billflaherty.com/posts/values/",
+      "url": "https://billflaherty.com/posts/values/",
+      "title": "My Values",
+      "content_html": "<p>In anything we do, it's important to know what we value. Knowing what you value enables decision making that is aligned with how you want to work and what you want to do. If you don't know your values, your decisions can end up scattered and misguided; potentially leading you away from where you want to go. The values below sketch out the things that I use to guide me in my career.</p>\n<h1 id=\"be-humble\" tabindex=\"-1\">Be Humble <a class=\"direct-link\" href=\"https://billflaherty.com/posts/values/#be-humble\" aria-hidden=\"true\">#</a></h1>\n<p>No one's work is above review or feedback. If you can't accept feedback you can't get better, and if you can't get better you're doomed to eventual failure.</p>\n<h1 id=\"be-creative\" tabindex=\"-1\">Be Creative <a class=\"direct-link\" href=\"https://billflaherty.com/posts/values/#be-creative\" aria-hidden=\"true\">#</a></h1>\n<p>Any problem worth solving requires creativity. The more rewarding problems are the ones which are tough to solve. Creativity is how you solve those problems elegantly.</p>\n<h1 id=\"be-curious\" tabindex=\"-1\">Be Curious <a class=\"direct-link\" href=\"https://billflaherty.com/posts/values/#be-curious\" aria-hidden=\"true\">#</a></h1>\n<p>If you are only interested in understanding the slice of a project you are responsible for, you don't understand the project. Modern engineering problems are inherently multidisciplinary. Being curious about the pieces of the problem outside your domain is critical to solving problem successfully.</p>\n<h1 id=\"always-be-learning\" tabindex=\"-1\">Always Be Learning <a class=\"direct-link\" href=\"https://billflaherty.com/posts/values/#always-be-learning\" aria-hidden=\"true\">#</a></h1>\n<p>My only value that says &quot;always&quot;. If you aren't learning, then you are going to repeat the mistakes of the past. Everyone fails, but those who succeed don't make fail in the same way twice.</p><p></p>\n",
+      "date_published": "2023-10-18T00:00:00Z"
+    },{
+      "id": "https://billflaherty.com/posts/powerx/",
+      "url": "https://billflaherty.com/posts/powerx/",
+      "title": "PowerX.",
+      "content_html": "<h1 id=\"powerx\" tabindex=\"-1\">PowerX <a class=\"direct-link\" href=\"https://billflaherty.com/posts/powerx/#powerx\" aria-hidden=\"true\">#</a></h1>\n<p>PowerX is an exciting, green-tech startup who I worked with in 2022. I was able to take on the role of Interim CTO, and work with them to bring their suite of energy monitoring hardware to market. Check out the case study <a href=\"https://www.verytechnology.com/iot-case-studies/how-powerx-transformed-their-smart-home-product-line-for-scalability\">here</a>.</p>\n",
+      "date_published": "2023-01-02T00:00:00Z"
+    },{
+      "id": "https://billflaherty.com/posts/tattlebox/",
+      "url": "https://billflaherty.com/posts/tattlebox/",
+      "title": "Tattlebox.",
+      "content_html": "<p>This is a great project which I was the Project Manager for at Very. It was a really fun project, and a great oppertunity for us to exercise our Agile approach to hardware engineering. You can find more information on the project <a href=\"https://www.verytechnology.com/iot-case-studies/tattlebox\">here</a>.</p>\n",
+      "date_published": "2021-10-02T00:00:00Z"
+    },{
+      "id": "https://billflaherty.com/posts/staceyiot/",
+      "url": "https://billflaherty.com/posts/staceyiot/",
+      "title": "I was on a panel!",
+      "content_html": "<h1 id=\"i-was-on-a-panel!\" tabindex=\"-1\">I was on a panel! <a class=\"direct-link\" href=\"https://billflaherty.com/posts/staceyiot/#i-was-on-a-panel!\" aria-hidden=\"true\">#</a></h1>\n<p>Check out this <a href=\"https://staceyoniot.com/what-you-missed-at-the-rf-sensing-event-last-week/\">panel</a> I participated in on RF sensing technologies. I had a lot of fun participating, and think there were some really useful insights in the discussion.</p>\n",
+      "date_published": "2021-09-21T00:00:00Z"
+    },{
+      "id": "https://billflaherty.com/posts/connectedthings/",
+      "url": "https://billflaherty.com/posts/connectedthings/",
+      "title": "A talk with Mark Thirman.",
+      "content_html": "<p>I had a great chat with Mark Thirman of the MIT Connected Things Forum discussing 5G and the future of IoT and remote work. <a href=\"https://www.youtube.com/watch?reload=9&amp;v=-NQeRoNsZpU\">Check it out!</a></p>\n",
+      "date_published": "2021-06-26T00:00:00Z"
+    }
+  ]
+}
